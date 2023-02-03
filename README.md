@@ -13,3 +13,6 @@ Training phases of Machine Learning lab in BKAI, HUST 2023. The training procedu
 
 ## Resources:
 - [Machine Learning](https://bkai.ai/course/machine-learning-and-data-mining/) class, taught by [Assoc Prof Than Quang Khoat](https://users.soict.hust.edu.vn/khoattq/). Lecture is available online on [Youtube](https://www.youtube.com/playlist?list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_)
+
+## How to run code:
+-Run all the .ipynb file (Jupyter Notebook).
